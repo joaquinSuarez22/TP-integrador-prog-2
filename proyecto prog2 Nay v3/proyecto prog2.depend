@@ -1,0 +1,1046 @@
+# depslib dependency file v1.0
+1730435468 source:c:\users\joaquin\desktop\proyecto prog2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"menus.h"
+	"fecha.h"
+	"producto.h"
+	"videojuegos.h"
+	"accesorios.h"
+	"consola.h"
+	"personas.h"
+	"vendedor.h"
+	"cliente.h"
+	"ventas.h"
+	"detalleDeVentas.h"
+	"ArchivoProductos.h"
+
+1729696084 c:\users\joaquin\desktop\proyecto prog2\proyecto.h
+	<string>
+
+1729733492 c:\users\joaquin\desktop\proyecto prog2\personas.h
+	<cstring>
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\ventas.h
+	<cstring>
+	"fecha.h"
+	<iostream>
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\detalledeventas.h
+	<cstring>
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\fecha.h
+	<cstring>
+	<iostream>
+
+1729696047 source:c:\users\joaquin\desktop\proyecto prog2\proyecto.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"proyecto.h"
+
+1730385765 source:c:\users\joaquin\desktop\proyecto prog2\producto.cpp
+	<iostream>
+	"producto.h"
+	<cstring>
+
+1730385580 c:\users\joaquin\desktop\proyecto prog2\producto.h
+	<string>
+	<cstring>
+
+1729772218 source:c:\users\joaquin\desktop\proyecto prog2\videojuegos.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"videojuegos.h"
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\videojuegos.h
+	<cstring>
+	"producto.h"
+
+1729722530 source:c:\users\joaquin\desktop\proyecto prog2\accesorios.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"accesorios.h"
+
+1730385843 c:\users\joaquin\desktop\proyecto prog2\accesorios.h
+	<cstring>
+	"producto.h"
+
+1730321776 source:c:\users\joaquin\desktop\proyecto prog2\consola.cpp
+	<iostream>
+	<cstring>
+	"consola.h"
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\consola.h
+	<cstring>
+	"producto.h"
+
+1729733813 source:c:\users\joaquin\desktop\proyecto prog2\cliente.cpp
+	"cliente.h"
+	<cstring>
+
+1729735158 source:c:\users\joaquin\desktop\proyecto prog2\vendedor.cpp
+	"vendedor.h"
+	<cstring>
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\vendedor.h
+	<cstring>
+	"personas.h"
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\cliente.h
+	<cstring>
+	"personas.h"
+
+1730321926 source:c:\users\joaquin\desktop\proyecto prog2\archivoproductos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"ArchivoProductos.h"
+	"consola.h"
+	"accesorios.h"
+	"videojuegos.h"
+
+1730385942 c:\users\joaquin\desktop\proyecto prog2\archivoproductos.h
+	<iostream>
+	<vector>
+	"producto.h"
+	<cstring>
+
+1729722530 source:c:\users\josei\onedrive\escritorio\proyecto prog2\accesorios.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"accesorios.h"
+
+1730319475 c:\users\josei\onedrive\escritorio\proyecto prog2\accesorios.h
+	"producto.h"
+
+1730319108 c:\users\josei\onedrive\escritorio\proyecto prog2\producto.h
+	<string>
+
+1730321926 source:c:\users\josei\onedrive\escritorio\proyecto prog2\archivoproductos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"ArchivoProductos.h"
+	"consola.h"
+	"accesorios.h"
+	"videojuegos.h"
+
+1730318101 c:\users\josei\onedrive\escritorio\proyecto prog2\archivoproductos.h
+	<iostream>
+	<vector>
+	"producto.h"
+
+1730321724 c:\users\josei\onedrive\escritorio\proyecto prog2\consola.h
+	"producto.h"
+
+1730319436 c:\users\josei\onedrive\escritorio\proyecto prog2\videojuegos.h
+	"producto.h"
+
+1729733813 source:c:\users\josei\onedrive\escritorio\proyecto prog2\cliente.cpp
+	"cliente.h"
+	<cstring>
+
+1729733813 c:\users\josei\onedrive\escritorio\proyecto prog2\cliente.h
+	"personas.h"
+
+1729733492 c:\users\josei\onedrive\escritorio\proyecto prog2\personas.h
+	<cstring>
+
+1730321776 source:c:\users\josei\onedrive\escritorio\proyecto prog2\consola.cpp
+	<iostream>
+	<cstring>
+	"consola.h"
+
+1730318979 source:c:\users\josei\onedrive\escritorio\proyecto prog2\producto.cpp
+	<iostream>
+	"producto.h"
+
+1729735158 source:c:\users\josei\onedrive\escritorio\proyecto prog2\vendedor.cpp
+	"vendedor.h"
+	<cstring>
+
+1729735179 c:\users\josei\onedrive\escritorio\proyecto prog2\vendedor.h
+	"personas.h"
+
+1729772218 source:c:\users\josei\onedrive\escritorio\proyecto prog2\videojuegos.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"videojuegos.h"
+
+1730376063 source:c:\users\josei\onedrive\escritorio\proyecto prog2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"fecha.h"
+	"producto.h"
+	"videojuegos.h"
+	"accesorios.h"
+	"consola.h"
+	"personas.h"
+	"vendedor.h"
+	"cliente.h"
+	"ventas.h"
+	"detalleDeVentas.h"
+	"ArchivoProductos.h"
+
+1730296035 c:\users\josei\onedrive\escritorio\proyecto prog2\fecha.h
+	<iostream>
+
+1729735754 c:\users\josei\onedrive\escritorio\proyecto prog2\ventas.h
+	"fecha.h"
+	<iostream>
+
+1729732754 c:\users\josei\onedrive\escritorio\proyecto prog2\detalledeventas.h
+
+1729722530 source:c:\users\maxi\downloads\proyecto prog2\accesorios.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"accesorios.h"
+
+1730385843 c:\users\maxi\downloads\proyecto prog2\accesorios.h
+	<cstring>
+	"producto.h"
+
+1730385580 c:\users\maxi\downloads\proyecto prog2\producto.h
+	<string>
+	<cstring>
+
+1730321926 source:c:\users\maxi\downloads\proyecto prog2\archivoproductos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"ArchivoProductos.h"
+	"consola.h"
+	"accesorios.h"
+	"videojuegos.h"
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\archivoproductos.h
+	<iostream>
+	<vector>
+	"producto.h"
+	<cstring>
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\consola.h
+	<cstring>
+	"producto.h"
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\videojuegos.h
+	<cstring>
+	"producto.h"
+
+1729733813 source:c:\users\maxi\downloads\proyecto prog2\cliente.cpp
+	"cliente.h"
+	<cstring>
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\cliente.h
+	<cstring>
+	"personas.h"
+
+1729733492 c:\users\maxi\downloads\proyecto prog2\personas.h
+	<cstring>
+
+1730321776 source:c:\users\maxi\downloads\proyecto prog2\consola.cpp
+	<iostream>
+	<cstring>
+	"consola.h"
+
+1730385765 source:c:\users\maxi\downloads\proyecto prog2\producto.cpp
+	<iostream>
+	"producto.h"
+	<cstring>
+
+1729735158 source:c:\users\maxi\downloads\proyecto prog2\vendedor.cpp
+	"vendedor.h"
+	<cstring>
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\vendedor.h
+	<cstring>
+	"personas.h"
+
+1729772218 source:c:\users\maxi\downloads\proyecto prog2\videojuegos.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"videojuegos.h"
+
+1730385067 source:c:\users\maxi\downloads\proyecto prog2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"fecha.h"
+	"producto.h"
+	"videojuegos.h"
+	"accesorios.h"
+	"consola.h"
+	"personas.h"
+	"vendedor.h"
+	"cliente.h"
+	"ventas.h"
+	"detalleDeVentas.h"
+	"ArchivoProductos.h"
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\fecha.h
+	<cstring>
+	<iostream>
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\ventas.h
+	<cstring>
+	"fecha.h"
+	<iostream>
+
+1730385942 c:\users\maxi\downloads\proyecto prog2\detalledeventas.h
+	<cstring>
+
+1730435130 c:\users\joaquin\desktop\proyecto prog2\menus.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+
+1729722530 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\accesorios.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"accesorios.h"
+
+1730385843 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\accesorios.h
+	<cstring>
+	"producto.h"
+
+1730385580 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\producto.h
+	<string>
+	<cstring>
+
+1730321926 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\archivoproductos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"ArchivoProductos.h"
+	"consola.h"
+	"accesorios.h"
+	"videojuegos.h"
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\archivoproductos.h
+	<iostream>
+	<vector>
+	"producto.h"
+	<cstring>
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\consola.h
+	<cstring>
+	"producto.h"
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\videojuegos.h
+	<cstring>
+	"producto.h"
+
+1729733813 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\cliente.cpp
+	"cliente.h"
+	<cstring>
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\cliente.h
+	<cstring>
+	"personas.h"
+
+1729733492 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\personas.h
+	<cstring>
+
+1730321776 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\consola.cpp
+	<iostream>
+	<cstring>
+	"consola.h"
+
+1730805198 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"menus.h"
+	"fecha.h"
+	"producto.h"
+	"videojuegos.h"
+	"accesorios.h"
+	"consola.h"
+	"personas.h"
+	"vendedor.h"
+	"cliente.h"
+	"ventas.h"
+	"detalleDeVentas.h"
+	"ArchivoProductos.h"
+
+1730906072 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\menus.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"funcionesMenuGestion.h"
+
+1730906213 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\fecha.h
+	<cstring>
+	<iostream>
+
+1730904716 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\vendedor.h
+	<cstring>
+	"personas.h"
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\ventas.h
+	<cstring>
+	"fecha.h"
+	<iostream>
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\detalledeventas.h
+	<cstring>
+
+1730385765 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\producto.cpp
+	<iostream>
+	"producto.h"
+	<cstring>
+
+1730800970 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\vendedor.cpp
+	"vendedor.h"
+	<cstring>
+
+1729772218 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\videojuegos.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"videojuegos.h"
+
+1730907381 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\funcionesmenugestion.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivo.h"
+
+1730907374 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\gestioninterna.h
+	<iostream>
+	<string>
+
+1730903088 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\archivo.h
+	<iostream>
+	<string>
+	"gestioninterna.h"
+	"vendedor.h"
+
+1730903172 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\archivo.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"archivo.h"
+	"vendedor.h"
+
+1730906213 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+
+1730907403 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\menúes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"gestioninterna.h"
+
+1730907579 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2\funcionesmenugestion.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivo.h"
+
+1729722530 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\accesorios.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"accesorios.h"
+
+1730939754 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\accesorios.h
+	<cstring>
+	"producto.h"
+
+1730385580 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\producto.h
+	<string>
+	<cstring>
+
+1730940138 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\archivoproductos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"ArchivoProductos.h"
+	"consola.h"
+	"accesorios.h"
+	"videojuegos.h"
+
+1730939613 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\archivoproductos.h
+	<iostream>
+	<vector>
+	"producto.h"
+	<cstring>
+
+1730938995 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\consola.h
+	<cstring>
+	"producto.h"
+
+1730940014 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\videojuegos.h
+	<cstring>
+	"producto.h"
+
+1729733813 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\cliente.cpp
+	"cliente.h"
+	<cstring>
+
+1730385942 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\cliente.h
+	<cstring>
+	"personas.h"
+
+1729733492 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\personas.h
+	<cstring>
+
+1730940178 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\consola.cpp
+	<iostream>
+	<cstring>
+	"consola.h"
+
+1730940058 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"menus.h"
+	"fecha.h"
+	"producto.h"
+	"videojuegos.h"
+	"accesorios.h"
+	"consola.h"
+	"personas.h"
+	"vendedor.h"
+	"cliente.h"
+	"ventas.h"
+	"detalleDeVentas.h"
+	"ArchivoProductos.h"
+
+1730906072 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\menus.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"funcionesMenuGestion.h"
+
+1730907381 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\funcionesmenugestion.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivo.h"
+
+1730904716 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\vendedor.h
+	<cstring>
+	"personas.h"
+
+1730907374 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\gestioninterna.h
+	<iostream>
+	<string>
+
+1730903088 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\archivo.h
+	<iostream>
+	<string>
+	"gestioninterna.h"
+	"vendedor.h"
+
+1730906213 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\fecha.h
+	<cstring>
+	<iostream>
+
+1730385942 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\ventas.h
+	<cstring>
+	"fecha.h"
+	<iostream>
+
+1730385942 c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\detalledeventas.h
+	<cstring>
+
+1730385765 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\producto.cpp
+	<iostream>
+	"producto.h"
+	<cstring>
+
+1730800970 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\vendedor.cpp
+	"vendedor.h"
+	<cstring>
+
+1730940014 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\videojuegos.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"videojuegos.h"
+
+1730936270 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\archivo.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"archivo.h"
+	"vendedor.h"
+
+1730906213 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+
+1730907579 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\funcionesmenugestion.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivo.h"
+
+1730907403 source:c:\users\joaquin\desktop\proyecto programacion\proyecto prog2 nay\menúes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"gestioninterna.h"
+
+1729722530 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\accesorios.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"accesorios.h"
+
+1730939754 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\accesorios.h
+	<cstring>
+	"producto.h"
+
+1730385580 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\producto.h
+	<string>
+	<cstring>
+
+1731017085 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\archivo.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"archivo.h"
+	"vendedor.h"
+
+1731017185 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\archivo.h
+	<iostream>
+	<string>
+	"gestioninterna.h"
+	"vendedor.h"
+
+1730907374 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\gestioninterna.h
+	<iostream>
+	<string>
+
+1730904716 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\vendedor.h
+	<cstring>
+	"personas.h"
+
+1729733492 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\personas.h
+	<cstring>
+
+1730940138 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\archivoproductos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"ArchivoProductos.h"
+	"consola.h"
+	"accesorios.h"
+	"videojuegos.h"
+
+1730939613 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\archivoproductos.h
+	<iostream>
+	<vector>
+	"producto.h"
+	<cstring>
+
+1730938995 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\consola.h
+	<cstring>
+	"producto.h"
+
+1730940014 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\videojuegos.h
+	<cstring>
+	"producto.h"
+
+1729733813 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\cliente.cpp
+	"cliente.h"
+	<cstring>
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\cliente.h
+	<cstring>
+	"personas.h"
+
+1730940178 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\consola.cpp
+	<iostream>
+	<cstring>
+	"consola.h"
+
+1730906213 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+
+1730906213 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\fecha.h
+	<cstring>
+	<iostream>
+
+1731035505 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\funcionesmenugestion.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivoVendedor.h"
+
+1730940058 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"menus.h"
+	"fecha.h"
+	"producto.h"
+	"videojuegos.h"
+	"accesorios.h"
+	"consola.h"
+	"personas.h"
+	"vendedor.h"
+	"cliente.h"
+	"ventas.h"
+	"detalleDeVentas.h"
+	"ArchivoProductos.h"
+
+1730906072 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\menus.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"funcionesMenuGestion.h"
+
+1730907381 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\funcionesmenugestion.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivo.h"
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\ventas.h
+	<cstring>
+	"fecha.h"
+	<iostream>
+
+1730385942 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\detalledeventas.h
+	<cstring>
+
+1730907403 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\menúes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"gestioninterna.h"
+
+1730385765 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\producto.cpp
+	<iostream>
+	"producto.h"
+	<cstring>
+
+1730800970 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\vendedor.cpp
+	"vendedor.h"
+	<cstring>
+
+1730940014 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\videojuegos.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"videojuegos.h"
+
+1731020265 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\archivovendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"archivoVendedor.h"
+	"vendedor.h"
+
+1731020221 c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\archivovendedor.h
+	<iostream>
+	<string>
+	"gestioninterna.h"
+	"vendedor.h"
+
+1731035518 source:c:\users\hard digital\desktop\universidad 2024\programación 2\trabajo practico grupal\proyecto prog2 joaquin v2\archivogestioninterna.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+
+1729722530 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\accesorios.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"accesorios.h"
+
+1730939754 c:\users\hard digital\desktop\proyecto prog2 nay v2\accesorios.h
+	<cstring>
+	"producto.h"
+
+1730385580 c:\users\hard digital\desktop\proyecto prog2 nay v2\producto.h
+	<string>
+	<cstring>
+
+1730940138 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\archivoproductos.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<algorithm>
+	"ArchivoProductos.h"
+	"consola.h"
+	"accesorios.h"
+	"videojuegos.h"
+
+1730939613 c:\users\hard digital\desktop\proyecto prog2 nay v2\archivoproductos.h
+	<iostream>
+	<vector>
+	"producto.h"
+	<cstring>
+
+1730938995 c:\users\hard digital\desktop\proyecto prog2 nay v2\consola.h
+	<cstring>
+	"producto.h"
+
+1730940014 c:\users\hard digital\desktop\proyecto prog2 nay v2\videojuegos.h
+	<cstring>
+	"producto.h"
+
+1731060173 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\archivovendedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"archivoVendedor.h"
+	"vendedor.h"
+	"gestioninterna.h"
+
+1731059433 c:\users\hard digital\desktop\proyecto prog2 nay v2\archivovendedor.h
+	<iostream>
+	<string>
+	"gestioninterna.h"
+	"vendedor.h"
+
+1731061149 c:\users\hard digital\desktop\proyecto prog2 nay v2\gestioninterna.h
+	<iostream>
+	<string>
+
+1731059371 c:\users\hard digital\desktop\proyecto prog2 nay v2\vendedor.h
+	<cstring>
+	"personas.h"
+
+1729733492 c:\users\hard digital\desktop\proyecto prog2 nay v2\personas.h
+	<cstring>
+
+1729733813 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\cliente.cpp
+	"cliente.h"
+	<cstring>
+
+1730385942 c:\users\hard digital\desktop\proyecto prog2 nay v2\cliente.h
+	<cstring>
+	"personas.h"
+
+1730940178 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\consola.cpp
+	<iostream>
+	<cstring>
+	"consola.h"
+
+1730906213 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+
+1730906213 c:\users\hard digital\desktop\proyecto prog2 nay v2\fecha.h
+	<cstring>
+	<iostream>
+
+1731063926 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\funcionesmenugestion.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivoVendedor.h"
+	"archivoGestionInterna.h"
+	"gestioninterna.h"
+
+1730940058 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"menus.h"
+	"fecha.h"
+	"producto.h"
+	"videojuegos.h"
+	"accesorios.h"
+	"consola.h"
+	"personas.h"
+	"vendedor.h"
+	"cliente.h"
+	"ventas.h"
+	"detalleDeVentas.h"
+	"ArchivoProductos.h"
+
+1730906072 c:\users\hard digital\desktop\proyecto prog2 nay v2\menus.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string.h>
+	"funcionesMenuGestion.h"
+
+1730907381 c:\users\hard digital\desktop\proyecto prog2 nay v2\funcionesmenugestion.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"vendedor.h"
+	"personas.h"
+	"gestioninterna.h"
+	"producto.h"
+	"archivo.h"
+
+1730385942 c:\users\hard digital\desktop\proyecto prog2 nay v2\ventas.h
+	<cstring>
+	"fecha.h"
+	<iostream>
+
+1730385942 c:\users\hard digital\desktop\proyecto prog2 nay v2\detalledeventas.h
+	<cstring>
+
+1730907403 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\menúes.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"gestioninterna.h"
+
+1730385765 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\producto.cpp
+	<iostream>
+	"producto.h"
+	<cstring>
+
+1730800970 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\vendedor.cpp
+	"vendedor.h"
+	<cstring>
+
+1730940014 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\videojuegos.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	"videojuegos.h"
+
+1731061269 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\gestioninterna.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"gestioninterna.h"
+
+1731063121 source:c:\users\hard digital\desktop\proyecto prog2 nay v2\archivogestioninterna.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"archivoGestionInterna.h"
+	"gestioninterna.h"
+	"vendedor.h"
+
+1731063112 c:\users\hard digital\desktop\proyecto prog2 nay v2\archivogestioninterna.h
+	<iostream>
+	<string>
+	"gestioninterna.h"
+	"vendedor.h"
+

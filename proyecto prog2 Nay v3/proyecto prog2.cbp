@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyecto prog2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyecto prog2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-pedantic-errors" />
+					<Add option="-pedantic" />
+					<Add option="-Wall" />
+					<Add option="-std=gnu++14" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyecto prog2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-pedantic" />
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ArchivoProductos.cpp" />
+		<Unit filename="ArchivoProductos.h" />
+		<Unit filename="accesorios.cpp" />
+		<Unit filename="accesorios.h" />
+		<Unit filename="archivoGestionInterna.cpp" />
+		<Unit filename="archivoGestionInterna.h" />
+		<Unit filename="archivoVendedor.cpp" />
+		<Unit filename="archivoVendedor.h" />
+		<Unit filename="cliente.cpp" />
+		<Unit filename="cliente.h" />
+		<Unit filename="consola.cpp" />
+		<Unit filename="consola.h" />
+		<Unit filename="consolas.dat" />
+		<Unit filename="detalleDeVentas.h" />
+		<Unit filename="fecha.cpp" />
+		<Unit filename="fecha.h" />
+		<Unit filename="funcionesListados.h" />
+		<Unit filename="funcionesMenuGestion.cpp" />
+		<Unit filename="gestioninterna.cpp" />
+		<Unit filename="gestioninterna.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menus.h" />
+		<Unit filename="menúes.cpp" />
+		<Unit filename="personas.h" />
+		<Unit filename="producto.cpp" />
+		<Unit filename="producto.h" />
+		<Unit filename="proyecto prog2.cbp" />
+		<Unit filename="proyecto prog2.depend" />
+		<Unit filename="proyecto prog2.layout" />
+		<Unit filename="vendedor.cpp" />
+		<Unit filename="vendedor.h" />
+		<Unit filename="vendedores.dat" />
+		<Unit filename="ventas.h" />
+		<Unit filename="videojuegos.cpp" />
+		<Unit filename="videojuegos.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
